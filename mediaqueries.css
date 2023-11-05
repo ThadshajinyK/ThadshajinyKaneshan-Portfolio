@@ -1,0 +1,9 @@
+@media screen and (max-width:1200px) {
+    /* when the screen size lower than  1200 px the desktop navigation is gonna disappear*/
+    #desktop-nav{
+        display: none;
+    }
+    #humburger-nav{
+        display: flex;
+    }
+}
